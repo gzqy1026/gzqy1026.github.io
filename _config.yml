@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:gzqy1026/gzqy1026.github.io.git
-  branch: master
+  branch: main
