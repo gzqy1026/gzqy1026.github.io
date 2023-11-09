@@ -102,4 +102,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  ''
+  type: git
+  repo: https://github.com/gzqy1026/gzqy1026.github.io.git
+  branch: master
