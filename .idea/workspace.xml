@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="816a231e-97ba-4404-9649-52154cb691b3" name="Changes" comment="blog" />
+    <list default="true" id="816a231e-97ba-4404-9649-52154cb691b3" name="Changes" comment="blog">
+      <change beforePath="$PROJECT_DIR$/2023/11/09/my-first-blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/11/13/this-is-a-little-will/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2023/11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2023/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/archive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/categories.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/code-highlighting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/giscus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/paginator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/post-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/post.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rainbow-banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tags.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/toc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/var.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.6.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tidio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/discord-mark-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/discord-mark-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/github-mark-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/github-mark-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/mastodon-logo-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/mastodon-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/patreon-logo-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/patreon-logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/search-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/search-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/tags-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-img/tags-light.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +117,7 @@
       <workItem from="1699544610467" duration="2491000" />
       <workItem from="1699841532858" duration="1401000" />
       <workItem from="1699851155393" duration="359000" />
+      <workItem from="1699885947019" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1699545024314</created>
@@ -162,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699851365197</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="blog">
+      <created>1699886205293</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699886205293</updated>
+    </task>
+    <task id="LOCAL-00015" summary="blog">
+      <created>1699886222696</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699886222696</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
